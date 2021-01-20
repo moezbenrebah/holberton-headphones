@@ -1,7 +1,5 @@
-# holberton-headphones Project
+# holberton-headphones Project "Implement a design from scratch"
 
-
-# Implement a design from scratch
 
 
 ## An Overview:
@@ -42,6 +40,6 @@ Always start to build a web page from outside to inside and from top to bottom.
 
 ![](https://i.imgur.com/30bpnSO.jpg)
 
-<br>
+<br><br>
 
-Let's shape this web page!
+<b>Let's shape this web page!</b> 👨‍💻
