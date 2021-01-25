@@ -602,10 +602,6 @@ a {
 
   @media (max-width: 480px) {
 
-    header {
-      height: 1100px;
-    }
-
     .intro, .text p {
       max-width: 90%;
     }
@@ -646,6 +642,11 @@ a {
 
     .icon {
       margin-bottom: 50px;
+    }
+
+    :root {
+        --header-height: 1100px;
+      --our-results-height: 1800px;
     }
   }
 
