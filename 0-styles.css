@@ -386,7 +386,7 @@ header {
 }
 
 input[type=checkbox] {
-	height: 0;
+  height: 0;
   width: 0;
   visibility: hidden;
 }
@@ -531,6 +531,10 @@ input:checked ~ .menu-open-button > .menu-line-3 {
 }
 
 @media (max-width: 480px) {
+  body {
+    height: 800px;
+  }
+  
   .intro, .text p {
     max-width: 90%;
   }
