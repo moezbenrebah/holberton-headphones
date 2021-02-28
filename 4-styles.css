@@ -864,6 +864,10 @@ form .fields input {
     margin-right: -50px;
   }
 
+  .intro, .text p {
+    max-width: 90%;
+  }
+
   .intro {
     max-width: 95%;
   }
