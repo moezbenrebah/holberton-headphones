@@ -362,7 +362,7 @@ template {
 :root {
   --header-height: 800px;
   --color-white: white;
-  --font-familly-base: Source Sans Pro;
+  --font-familly-base: 'Source Sans Pro', sans-serif;
   --link-hover: #FF6565;
 }
 
